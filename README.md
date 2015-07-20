@@ -15,7 +15,7 @@ normally.
 
 Well Mario has pipes...
 
-![Image of Mario Pipes](https://octodex.github.com/images/yaktocat.png)
+![Image of Mario Pipes](https://raw.githubusercontent.com/TheNerdJedi/Pipes/master/mario-pipes.png)
 
 That's true, but the pipes that you use in IPC are known as **named pipes**
 
@@ -43,7 +43,7 @@ Included is the C# source code for named pipes.
 There are two files that do all the work(carry ftw): **PipeServer.cs** and **PipeClient.cs**
 Along with that is a simple messaging program to demo communication.
 
-![Demo](https://octodex.github.com/images/yaktocat.png)
+![Demo](https://raw.githubusercontent.com/TheNerdJedi/Pipes/master/server-client.png)
       
 
 
