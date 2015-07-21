@@ -1,0 +1,10 @@
+C:\Users\Russell\Desktop\Pipes\PipeServer\PipeServer\bin\Debug\PipeServer.exe
+C:\Users\Russell\Desktop\Pipes\PipeServer\PipeServer\bin\Debug\PipeServer.pdb
+C:\Users\Russell\Desktop\Pipes\PipeServer\PipeServer\obj\Debug\PipeServer.csprojResolveAssemblyReference.cache
+C:\Users\Russell\Desktop\Pipes\PipeServer\PipeServer\obj\Debug\Pipes.Form1.resources
+C:\Users\Russell\Desktop\Pipes\PipeServer\PipeServer\obj\Debug\Pipes.Properties.Resources.resources
+C:\Users\Russell\Desktop\Pipes\PipeServer\PipeServer\obj\Debug\PipeServer.csproj.GenerateResource.Cache
+C:\Users\Russell\Desktop\Pipes\PipeServer\PipeServer\obj\Debug\PipeServer.exe
+C:\Users\Russell\Desktop\Pipes\PipeServer\PipeServer\obj\Debug\PipeServer.pdb
+C:\Users\Russell\Documents\GitHub\Pipes\PipeServer\PipeServer\obj\Debug\PipeServer.exe
+C:\Users\Russell\Documents\GitHub\Pipes\PipeServer\PipeServer\obj\Debug\PipeServer.pdb
