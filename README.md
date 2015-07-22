@@ -1,5 +1,4 @@
 # Pipes
-=========
 
 ## Intro
 ==========
@@ -37,24 +36,15 @@ The type of data that is often transfered is usually:
 With this the update happens separately than the program, isolating all crashes.
 
 ## I wanna play!
-=================
+==================
 
 Included is the C# source code for named pipes.
 There are two files that do all the work(carry ftw): **PipeServer.cs** and **PipeClient.cs**
 Along with that is a simple messaging program to demo communication.
+Just click **Run** for each one! (Make sure you have Microsoft Visual Studio or something similar)
 
 ![Demo](https://raw.githubusercontent.com/TheNerdJedi/Pipes/master/server-client.png)
       
 
-
-
-
-
-
-
-
-
-
-
-~~ For more info please see
-http://wyday.com/blog/2010/multi-process-c-sharp-application-like-google-chrome-using-named-pipes/ ~~
+Influenced by:
+[wyDay](http://wyday.com/blog/2010/multi-process-c-sharp-application-like-google-chrome-using-named-pipes/)
