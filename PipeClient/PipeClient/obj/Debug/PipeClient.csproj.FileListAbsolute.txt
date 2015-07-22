@@ -1,0 +1,9 @@
+C:\Users\Russell\Desktop\Pipes\PipeClient\PipeClient\bin\Debug\PipeClient.exe
+C:\Users\Russell\Desktop\Pipes\PipeClient\PipeClient\bin\Debug\PipeClient.pdb
+C:\Users\Russell\Desktop\Pipes\PipeClient\PipeClient\obj\Debug\Pipes.Form1.resources
+C:\Users\Russell\Desktop\Pipes\PipeClient\PipeClient\obj\Debug\Pipes.Properties.Resources.resources
+C:\Users\Russell\Desktop\Pipes\PipeClient\PipeClient\obj\Debug\PipeClient.csproj.GenerateResource.Cache
+C:\Users\Russell\Desktop\Pipes\PipeClient\PipeClient\obj\Debug\PipeClient.exe
+C:\Users\Russell\Desktop\Pipes\PipeClient\PipeClient\obj\Debug\PipeClient.pdb
+C:\Users\Russell\Documents\GitHub\Pipes\PipeClient\PipeClient\obj\Debug\PipeClient.exe
+C:\Users\Russell\Documents\GitHub\Pipes\PipeClient\PipeClient\obj\Debug\PipeClient.pdb
